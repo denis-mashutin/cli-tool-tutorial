@@ -1,6 +1,6 @@
 import random
 
-import typer as typer
+import typer
 
 
 def read_words(file_name):
